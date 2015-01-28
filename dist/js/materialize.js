@@ -1,5 +1,5 @@
 /*!
- * Materialize v0.95.1 (http://materializecss.com)
+ * Materialize vundefined (http://materializecss.com)
  * Copyright 2014-2015 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
@@ -338,7 +338,7 @@ jQuery.extend( jQuery.easing,
       constrain_width: true, // Constrains width of dropdown to the activator
       hover: true,
       alignment: 'left',
-      gutter: 0, // Spacing from edge
+      gutter: 0 // Spacing from edge
     }
 
     options = $.extend(defaults, options);
